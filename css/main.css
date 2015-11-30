@@ -702,6 +702,10 @@ body .header {
 
 /*加入我们*/
 
+.job-btn{
+	text-align: center;
+}
+
 .job-full{
 	background-color: #fff;
     padding-top: 75px;
@@ -722,14 +726,15 @@ body .header {
 .job {
     width: 80%;
     margin: 0 auto;
-    margin-bottom: 30px;
     clear: both;
     min-height: 160px;
+
 }
 .job-title {
     color: #639FF3;
     font-size: 18px;
     line-height: 35px;
+	padding-top: 80px;
 }
 .job p{
     color:#858585;
