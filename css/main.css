@@ -705,6 +705,9 @@ body .header {
 .job-btn{
 	text-align: center;
 }
+.job-btn a{
+	margin-bottom: 4px;
+}
 
 .job-full{
 	background-color: #fff;
