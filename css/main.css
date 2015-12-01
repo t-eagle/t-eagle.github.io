@@ -814,7 +814,23 @@ body .header {
 .photo-title{
     padding-bottom: 30px;
 }
+#masonry .thumbnail{
+	max-width: 330px;
+	margin: 20px;
+	padding: 0;
+	border-width: 1px;
+	-webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+	box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+}
 
+#masonry {
+	padding: 0;
+	min-height: 450px;
+	margin: 0 auto;
+}
+.imgs{
+	padding: 5px;
+}
 /* ==========================================================================
    Éý¼¶ä¯ÀÀÆ÷
    ========================================================================== */
