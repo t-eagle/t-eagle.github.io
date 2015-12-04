@@ -494,7 +494,6 @@ a:before, a:after {
 	position: relative;
 	background: #2b2b2b;
 	padding: 25px 0 15px 0;
-	border-bottom: 1px solid #ddd;
 	text-align: center;
 }
 #footerwrap span.copyright {
